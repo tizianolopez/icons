@@ -35,7 +35,7 @@ margin: 10em 0em;
 }
 
 #img2{
-    height: 19em;
+    height: 310px;
     display: flex;
     justify-content: center;
 }
@@ -44,7 +44,7 @@ margin: 10em 0em;
     align-items: center;
 }
 #img3{
-    height: 19em;
+    height: 310px;
     display: flex;
     justify-content: center;
 }
@@ -53,7 +53,7 @@ margin: 10em 0em;
     align-items: center;
 }
 #img4{
-    height: 19em;
+    height: 310px;
     display: flex;
     justify-content: center;
 }
