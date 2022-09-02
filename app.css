@@ -1,0 +1,66 @@
+html{
+    font-family:"Nunito" sans-serif;
+}
+body{
+background-color: #222222
+}
+#main{
+    position: sticky;
+    background-color: #b19249;
+}
+.display1{
+    
+    color: honeydew;
+}
+#main .nav-link{
+    color: honeydew;
+}
+h1{
+    background-color: #b19249;
+    padding: 2em 0;
+    box-sizing: border-box;
+    border-bottom: 1px solid black;
+}
+#maincont{
+margin: 10em 0em;
+    color: white;
+}
+#img{
+    display: flex;
+    justify-content: center;
+}
+#text1{
+    display: flex;
+    align-items: center;
+}
+
+#img2{
+    height: 19em;
+    display: flex;
+    justify-content: center;
+}
+#text2{
+    display: flex;
+    align-items: center;
+}
+#img3{
+    height: 19em;
+    display: flex;
+    justify-content: center;
+}
+#text3{
+    display: flex;
+    align-items: center;
+}
+#img4{
+    height: 19em;
+    display: flex;
+    justify-content: center;
+}
+#text4{
+    display: flex;
+    align-items: center;
+}
+html{
+    scroll-behavior: smooth;
+}
